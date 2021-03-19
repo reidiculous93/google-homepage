@@ -7,6 +7,12 @@ li {
   display: inline;
 }
 
+li button {
+  border-radius: 3px;
+  background-color: #4285f4;
+  color: white;
+}
+
 a {
   text-decoration: none;
   color: black;
